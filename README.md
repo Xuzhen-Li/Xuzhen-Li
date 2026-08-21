@@ -12,11 +12,6 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 ![TE](https://img.shields.io/badge/-TE-5D4037?style=flat-square)
 ![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)
 
-
-## Mark one. Leave four-ever.
-
-The rings already fall inward; four of them are the same ellipse copied until it looks like depth, and the red one is what you bother to name. See through the stack. Less is the red, and more is only what that refusal lets it mean. Be a pest in time: not a gardener of hours, a weevil in the grain of duration, infesting the small ring until it counts. Jason: just one.
-
 ## Start Here
 
 - 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — classic genomics theory, one folder per note, tested on modern Vitis / clone data
@@ -72,4 +67,4 @@ VitisGDB is my grapevine database work. The public GitHub copy is currently publ
 
 ---
 
-> Mark one. Leave four-ever.
+> Read the original. Name the assumption that dies in clones. One theory per folder.
