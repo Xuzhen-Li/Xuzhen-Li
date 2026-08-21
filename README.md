@@ -15,13 +15,7 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 
 ## Mark one. Leave four-ever.
 
-The picture already converges. Rings fall inward. Don't fan out. Bind. Four are appearance: the same ellipse, copied until it looks like depth. One is essence. See through the stack. Don't decorate it.
-
-Less is more is not a motto here. Less is the red. More is what the red is allowed to mean because you refused the other four. Name a hundred and nothing reigns. Name one and the wait becomes a field.
-
-Be a pest in time. Not a gardener of hours. Not a guest of cycles. A weevil in the grain of duration — you chew the surplus, you don't live in every ring. The past is four white waits. You don't move there. You infest the small one until it counts.
-
-Jason: just one. Converge. See through. Less, therefore more. A pest in time, not a guest of it.
+The rings already fall inward; four of them are the same ellipse copied until it looks like depth, and the red one is what you bother to name. See through the stack. Less is the red, and more is only what that refusal lets it mean. Be a pest in time: not a gardener of hours, a weevil in the grain of duration, infesting the small ring until it counts. Jason: just one.
 
 ## Start Here
 
