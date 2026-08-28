@@ -43,6 +43,12 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 - 📚 **[plant-lit-review](https://github.com/Xuzhen-Li/plant-lit-review)** — literature review workflow
 - 🗄️ **[plant-omics-db](https://github.com/Xuzhen-Li/plant-omics-db)** — plant multi-omics databases
 
+### Writing
+
+- 👤 **[famous-people](https://github.com/Xuzhen-Li/famous-people)** — one person, one checkable question
+- 🌱 **[concept-learning](https://github.com/Xuzhen-Li/concept-learning)** — biology / evolution concept lessons
+- 📄 **[paper-reading](https://github.com/Xuzhen-Li/paper-reading)** — one PDF to one Chinese L3 note
+
 ### Methods and figures
 
 - 🖼️ **[paper-viz](https://github.com/Xuzhen-Li/paper-viz)** — paper figures
