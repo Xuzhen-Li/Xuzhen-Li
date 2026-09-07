@@ -20,6 +20,7 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 - ✅ **[TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance)** — trio genotype QC
 - 🧬 **[grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna)** — ancient-DNA methods and notes for *Vitis*
 - 🕸️ **[vitis-pangenome](https://github.com/Xuzhen-Li/vitis-pangenome)** — pangenome / graph line
+- 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — GPT-6 Astra science gallery (wins + reality check)
 
 ## Lines of work
 
@@ -51,6 +52,7 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 ### Methods and figures
 
 - 🖼️ **[paper-viz](https://github.com/Xuzhen-Li/paper-viz)** — paper figures
+- 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — Astra science gallery (wins + 也就那回事)
 - ✅ **[TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance)** — trio genotype QC
 
 ## GitHub Activity
