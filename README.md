@@ -39,7 +39,8 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 - 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — one theory per folder; original paper first
 - ⚠️ **[bioinfo-pitfalls](https://github.com/Xuzhen-Li/bioinfo-pitfalls)** — symptom-first traps for plant genomics pipelines
 - 🔗 **[vitis-synteny](https://github.com/Xuzhen-Li/vitis-synteny)** — colinearity / synteny
-- 🏷️ **[plant-gene-annotation](https://github.com/Xuzhen-Li/plant-gene-annotation)** — plant gene annotation
+- 🏷️ **[gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation)** — gene structure / models (ex plant-gene-annotation)
+- 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — gene functional annotation (ex vitis-gene-annotation)
 - 📚 **[plant-lit-review](https://github.com/Xuzhen-Li/plant-lit-review)** — literature review workflow
 - 🗄️ **[plant-omics-db](https://github.com/Xuzhen-Li/plant-omics-db)** — plant multi-omics databases
 
