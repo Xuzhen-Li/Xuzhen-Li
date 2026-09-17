@@ -16,6 +16,8 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 - 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — **labels after proteins** (GO / domains / names; no BRAKER / GFF edit / TE)
 - 🧱 **[vitis-te](https://github.com/Xuzhen-Li/vitis-te)** — TE **library build** (not under function)
 
+**Annotation board:** [Project #2](https://github.com/users/Xuzhen-Li/projects/2) (structure → function).
+
 Also useful doors:
 
 - 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — classic genomics theory, one folder per note, tested on modern Vitis / clone data
