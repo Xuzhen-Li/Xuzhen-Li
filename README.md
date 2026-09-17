@@ -1,52 +1,70 @@
-# Hi, I'm Xuzhen
+# Hi, I'm Xuzhen 👋
 
-Plant genomics · *Vitis* · ancient DNA · clones · pangenomes · TE
+🧬 **Plant genomics** | 🍇 **Vitis** | ⏳ **Ancient DNA**
 
 Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, and tests of old population-genetic theory on modern data.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3670--6657-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3670-6657)
+[![GitHub followers](https://img.shields.io/github/followers/Xuzhen-Li?style=flat-square&logo=github&label=followers)](https://github.com/Xuzhen-Li?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Xuzhen-Li?affiliations=OWNER&style=flat-square&logo=github&label=stars)](https://github.com/Xuzhen-Li?tab=repositories)
 
 ## Start Here
 
-Annotation teaching pair (structure → function; TE lib is separate):
+**Annotation teaching pair** (structure → function; TE lib is separate):
 
-- [gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation) — primary gene-model layer (exons / CDS → GFF3 + proteins; TE soft-mask inside structure)
-- [gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation) — labels after proteins (GO / domains / names; no BRAKER / GFF edit / TE)
-- [vitis-te](https://github.com/Xuzhen-Li/vitis-te) — TE library build (not under function)
+- 🏷️ **[gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation)** — **primary gene-model layer** (exons / CDS → GFF3 + proteins; TE soft-mask inside structure)
+- 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — **labels after proteins** (GO / domains / names; no BRAKER / GFF edit / TE)
+- 🧱 **[vitis-te](https://github.com/Xuzhen-Li/vitis-te)** — TE **library build** (not under function)
+
+**Annotation board:** [Project #2](https://github.com/users/Xuzhen-Li/projects/2) (structure → function).
+
+Also useful doors:
+
+- 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — classic genomics theory, one folder per note, tested on modern Vitis / clone data
+- 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — 167K capture analysis; chip design lives in [`chip/`](https://github.com/Xuzhen-Li/grapeancestry/tree/main/chip)
+- 🧰 **[bioinfo-agent-skills](https://github.com/Xuzhen-Li/bioinfo-agent-skills)** — index of agent skills for plant genomics
+- ✅ **[TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance)** — trio genotype QC
+- 🧬 **[grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna)** — ancient-DNA methods and notes for *Vitis*
+- 🕸️ **[vitis-pangenome](https://github.com/Xuzhen-Li/vitis-pangenome)** — pangenome / graph line
+- 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — GPT-6 Astra science gallery (wins + reality check)
 
 ## Lines of work
 
 ### Grapevine data
 
-- [grapeancestry](https://github.com/Xuzhen-Li/grapeancestry) — 167K capture analysis + [`chip/`](https://github.com/Xuzhen-Li/grapeancestry/tree/main/chip) design
-- [grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna) — ancient DNA
-- [vitis-pangenome](https://github.com/Xuzhen-Li/vitis-pangenome) — pangenome / graph
-- [vitis-te](https://github.com/Xuzhen-Li/vitis-te) — transposable elements
-- [vitis-popgen](https://github.com/Xuzhen-Li/vitis-popgen) — population genetics
-- [grapevine-plastid](https://github.com/Xuzhen-Li/grapevine-plastid) — plastid
+- 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — 167K capture analysis + [`chip/`](https://github.com/Xuzhen-Li/grapeancestry/tree/main/chip) design
+- 🧬 **[grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna)** — ancient DNA
+- 🕸️ **[vitis-pangenome](https://github.com/Xuzhen-Li/vitis-pangenome)** — pangenome / graph
+- 🧱 **[vitis-te](https://github.com/Xuzhen-Li/vitis-te)** — transposable elements
+- 📊 **[vitis-popgen](https://github.com/Xuzhen-Li/vitis-popgen)** — population genetics
+- 🟢 **[grapevine-plastid](https://github.com/Xuzhen-Li/grapevine-plastid)** — plastid
 
 ### Agent skills
 
-- [bioinfo-agent-skills](https://github.com/Xuzhen-Li/bioinfo-agent-skills) — public index
-- [genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining) — one theory per folder
-- [bioinfo-pitfalls](https://github.com/Xuzhen-Li/bioinfo-pitfalls) — symptom-first traps
-- [vitis-synteny](https://github.com/Xuzhen-Li/vitis-synteny) — colinearity / synteny
-- [gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation) — gene models (GFF3 / proteins)
-- [gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation) — GO / domains / names
-- [plant-lit-review](https://github.com/Xuzhen-Li/plant-lit-review) — literature review workflow
-- [plant-omics-db](https://github.com/Xuzhen-Li/plant-omics-db) — plant multi-omics databases
+- 🧰 **[bioinfo-agent-skills](https://github.com/Xuzhen-Li/bioinfo-agent-skills)** — public index (each skill is its own repo)
+- 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — one theory per folder; original paper first
+- ⚠️ **[bioinfo-pitfalls](https://github.com/Xuzhen-Li/bioinfo-pitfalls)** — symptom-first traps for plant genomics pipelines
+- 🔗 **[vitis-synteny](https://github.com/Xuzhen-Li/vitis-synteny)** — colinearity / synteny
+- 🏷️ **[gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation)** — gene structure / models (ex plant-gene-annotation)
+- 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — gene functional annotation (ex vitis-gene-annotation)
+- 📚 **[plant-lit-review](https://github.com/Xuzhen-Li/plant-lit-review)** — literature review workflow
+- 🗄️ **[plant-omics-db](https://github.com/Xuzhen-Li/plant-omics-db)** — plant multi-omics databases
 
 ### Writing
 
-- [famous-people](https://github.com/Xuzhen-Li/famous-people) — one person, one checkable question
-- [concept-learning](https://github.com/Xuzhen-Li/concept-learning) — biology / evolution concept lessons
-- [paper-reading](https://github.com/Xuzhen-Li/paper-reading) — one PDF to one Chinese L3 note
+- 👤 **[famous-people](https://github.com/Xuzhen-Li/famous-people)** — one person, one checkable question
+- 🌱 **[concept-learning](https://github.com/Xuzhen-Li/concept-learning)** — biology / evolution concept lessons
+- 📄 **[paper-reading](https://github.com/Xuzhen-Li/paper-reading)** — one PDF to one Chinese L3 note
 
 ### Methods and figures
 
-- [paper-viz](https://github.com/Xuzhen-Li/paper-viz) — paper figures
-- [awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science) — Astra science gallery
-- [TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance) — trio genotype QC
+- 🖼️ **[paper-viz](https://github.com/Xuzhen-Li/paper-viz)** — paper figures
+- 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — Astra science gallery (wins + 也就那回事)
+- ✅ **[TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance)** — trio genotype QC
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuzhen-Li&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
 ## GitHub Activity
 
@@ -62,7 +80,8 @@ VitisGDB is my grapevine database work. The public GitHub copy is currently publ
 
 ## Connect
 
-[ORCID](https://orcid.org/0000-0003-3670-6657) · [GitHub](https://github.com/Xuzhen-Li) · [Annotation board](https://github.com/users/Xuzhen-Li/projects/2)
+[![ORCID](https://img.shields.io/badge/-0000--0003--3670--6657-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3670-6657)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Xuzhen-Li)
 
 ---
 
