@@ -4,15 +4,18 @@
 
 Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, and tests of old population-genetic theory on modern data.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Genomics](https://img.shields.io/badge/-Genomics-2E7D32?style=flat-square)
-![aDNA](https://img.shields.io/badge/-aDNA-6A1B9A?style=flat-square)
-![Pangenome](https://img.shields.io/badge/-Pangenome-00838F?style=flat-square)
-![TE](https://img.shields.io/badge/-TE-5D4037?style=flat-square)
-![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3670--6657-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3670-6657)
+[![GitHub followers](https://img.shields.io/github/followers/Xuzhen-Li?style=flat-square&logo=github&label=followers)](https://github.com/Xuzhen-Li?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Xuzhen-Li?affiliations=OWNER&style=flat-square&logo=github&label=stars)](https://github.com/Xuzhen-Li?tab=repositories)
 
 ## Start Here
+
+**Annotation teaching pair** (structure → function):
+
+- 🏷️ **[gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation)** — find genes on a genome (exons / CDS → GFF3 + proteins)
+- 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — label proteins after models exist (GO / domains / names)
+
+Also useful doors:
 
 - 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — classic genomics theory, one folder per note, tested on modern Vitis / clone data
 - 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — 167K capture analysis; chip design lives in [`chip/`](https://github.com/Xuzhen-Li/grapeancestry/tree/main/chip)
@@ -55,6 +58,10 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 - 🖼️ **[paper-viz](https://github.com/Xuzhen-Li/paper-viz)** — paper figures
 - 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — Astra science gallery (wins + 也就那回事)
 - ✅ **[TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance)** — trio genotype QC
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuzhen-Li&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
 ## GitHub Activity
 
