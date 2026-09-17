@@ -10,10 +10,11 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 
 ## Start Here
 
-**Annotation teaching pair** (structure → function):
+**Annotation teaching pair** (structure → function; TE lib is separate):
 
-- 🏷️ **[gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation)** — find genes on a genome (exons / CDS → GFF3 + proteins)
-- 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — label proteins after models exist (GO / domains / names)
+- 🏷️ **[gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation)** — **primary gene-model layer** (exons / CDS → GFF3 + proteins; TE soft-mask inside structure)
+- 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — **labels after proteins** (GO / domains / names; no BRAKER / GFF edit / TE)
+- 🧱 **[vitis-te](https://github.com/Xuzhen-Li/vitis-te)** — TE **library build** (not under function)
 
 Also useful doors:
 
