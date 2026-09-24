@@ -10,31 +10,23 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 
 ## Start Here
 
-**Annotation teaching pair** (structure → function; TE lib is separate):
+**Annotation teaching pair** (structure → function; TE library build is a separate job under Lines of work):
 
 - 🏷️ **[gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation)** — **primary gene-model layer** (exons / CDS → GFF3 + proteins; TE soft-mask inside structure)
 - 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — **labels after proteins** (GO / domains / names; no BRAKER / GFF edit / TE)
-- 🧱 **[vitis-te](https://github.com/Xuzhen-Li/vitis-te)** — TE **library build** (not under function)
 
 **Annotation board:** [Project #2](https://github.com/users/Xuzhen-Li/projects/2) (structure → function).
 
-Also useful doors:
+**Grapevine tool:**
 
-- 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — classic genomics theory, one folder per note, tested on modern Vitis / clone data
-- 🧰 **[gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit)** — **GBTS Chip Service Kit** (species-agnostic scaffold + profile contract)
-- 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — grapevine **167K public walkthrough** (GUIDELINE / demo HTML / step docs); chip design folder [`chip/`](https://github.com/Xuzhen-Li/grapeancestry/tree/main/chip)
-- 🧰 **[bioinfo-agent-skills](https://github.com/Xuzhen-Li/bioinfo-agent-skills)** — index of agent skills for plant genomics
-- ✅ **[TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance)** — trio genotype QC
-- 🧬 **[grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna)** — ancient-DNA methods and notes for *Vitis*
-- 🕸️ **[vitis-pangenome](https://github.com/Xuzhen-Li/vitis-pangenome)** — pangenome / graph line
-- 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — GPT-6 Astra science gallery (wins + reality check)
+- 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — grapevine **167K public walkthrough** (GUIDELINE / `demo/` / `steps/`); reusable chip scaffold is [gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit)
 
 ## Lines of work
 
 ### Grapevine data
 
 - 🧰 **[gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit)** — GBTS Chip Service Kit (generic scaffold)
-- 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — grapevine 167K walkthrough + [`chip/`](https://github.com/Xuzhen-Li/grapeancestry/tree/main/chip) design
+- 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — grapevine 167K walkthrough (`demo/` / `steps/`); chip scaffold → kit above
 - 🧬 **[grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna)** — ancient DNA
 - 🕸️ **[vitis-pangenome](https://github.com/Xuzhen-Li/vitis-pangenome)** — pangenome / graph
 - 🧱 **[vitis-te](https://github.com/Xuzhen-Li/vitis-te)** — transposable elements
@@ -75,7 +67,7 @@ Also useful doors:
 ## What I'm doing
 
 - **Old theory, new data** — lock the original paper, list the assumptions, then try to break them on grape clones and wild *Vitis*
-- **Capture panel** — GBTS kit scaffold (`gtbs-chip-service-kit`) + grapevine 167K face (`grapeancestry`)
+- **Capture panel** — GBTS kit scaffold (`gtbs-chip-service-kit`) + grapevine 167K walkthrough (`grapeancestry`)
 - **Clonal genomes** — aDNA, pangenomes, TE, and plastid as separate jobs, not one dump
 
 VitisGDB is my grapevine database work. The public GitHub copy is currently published with a collaborator.
