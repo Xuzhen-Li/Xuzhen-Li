@@ -52,7 +52,7 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 
 ### Methods and figures
 
-- 🖼️ **[paper-viz](https://github.com/Xuzhen-Li/paper-viz)** — **featured** R-first paper-figure library (**115** templates: simulated data + code + preview). Repo: https://github.com/Xuzhen-Li/paper-viz · Gallery: https://xuzhen-li.github.io/paper-viz/
+- 🖼️ **[paper-viz](https://github.com/Xuzhen-Li/paper-viz)** — **featured** R-first paper-figure library (**116** templates: simulated data + code + preview). Repo: https://github.com/Xuzhen-Li/paper-viz · Gallery: https://xuzhen-li.github.io/paper-viz/
   <p align="left"><img src="https://raw.githubusercontent.com/Xuzhen-Li/paper-viz/main/figures/differential-expression/volcano/preview.png" width="280" alt="paper-viz volcano preview"></p>
 - 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — Astra science gallery (wins + 也就那回事)
 - ✅ **[TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance)** — trio genotype QC
