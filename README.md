@@ -57,6 +57,10 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 - 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — Astra science gallery (wins + 也就那回事)
 - ✅ **[TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance)** — trio genotype QC
 
+### Tooling case notes
+
+- 🧯 **[cursor-state-vscdb](https://github.com/Xuzhen-Li/cursor-state-vscdb)** — Cursor stuck on **Loading chats**: oversized `state.vscdb` / `cursorDiskKV` case write-up
+
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuzhen-Li&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
