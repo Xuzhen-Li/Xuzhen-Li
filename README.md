@@ -24,34 +24,39 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 
 ## Lines of work
 
-### Grapevine data
+### Grapevine genome
 
-- 🧰 **[gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit)** — GBTS Chip Service Kit (generic scaffold)
-- 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — grapevine 167K walkthrough (`demo/` / `steps/`)
-- 🧪 **[grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip)** — chip design pipeline
-- 🧬 **[grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna)** — ancient DNA (Italy, plus earlier tests on other samples)
 - 🕸️ **[vitis-pangenome](https://github.com/Xuzhen-Li/vitis-pangenome)** — pangenome / graph
-- 🧱 **[vitis-te](https://github.com/Xuzhen-Li/vitis-te)** — transposable elements (pipeline from this machine)
-- 📊 **[vitis-popgen](https://github.com/Xuzhen-Li/vitis-popgen)** — population genetics (Italy analysis notes)
+- 🧱 **[vitis-te](https://github.com/Xuzhen-Li/vitis-te)** — transposable elements
 - 🟢 **[grapevine-plastid](https://github.com/Xuzhen-Li/grapevine-plastid)** — plastid
+- 🏷️ **[gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation)** — gene models (GFF3 + proteins)
+- 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — labels after proteins
 
-### Theory and writing
+### GBTS
 
-- 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — one theory per folder; original paper first
-- 👤 **[famous-people](https://github.com/Xuzhen-Li/famous-people)** — one person, one checkable question
-- 🌱 **[concept-learning](https://github.com/Xuzhen-Li/concept-learning)** — biology / evolution concept lessons
-- 📄 **[paper-reading](https://github.com/Xuzhen-Li/paper-reading)** — one PDF to one Chinese L3 note
+- 🧰 **[gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit)** — reusable chip-service scaffold
+- 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — 167K walkthrough. [Demo report](https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html)
+- 🧪 **[grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip)** — chip design pipeline (scripts still to come)
 
-### Methods and figures
+### Population genetics
 
-- 🖼️ **[paper-viz](https://github.com/Xuzhen-Li/paper-viz)** — **featured** R-first paper-figure library (**116** templates: simulated data + code + preview). Repo: https://github.com/Xuzhen-Li/paper-viz · Gallery: https://xuzhen-li.github.io/paper-viz/
-  <p align="left"><img src="https://raw.githubusercontent.com/Xuzhen-Li/paper-viz/main/figures/differential-expression/volcano/preview.png" width="280" alt="paper-viz volcano preview"></p>
-- 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — AI model works: demos and figures models actually produced
+- 📊 **[vitis-popgen](https://github.com/Xuzhen-Li/vitis-popgen)** — Italy analysis notes
 - ✅ **[TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance)** — trio genotype QC
 
-### Tooling case notes
+### Ancient DNA
 
-- 🧯 **[cursor-state-vscdb](https://github.com/Xuzhen-Li/cursor-state-vscdb)** — Cursor stuck on **Loading chats**: oversized `state.vscdb` / `cursorDiskKV` case write-up
+- 🧬 **[grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna)** — Italy aDNA, plus earlier tests on other samples
+
+### Skills
+
+- 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — one theory per folder; original paper first
+- 🖼️ **[paper-viz](https://github.com/Xuzhen-Li/paper-viz)** — R figure library. [Gallery](https://xuzhen-li.github.io/paper-viz/)
+  <p align="left"><img src="https://raw.githubusercontent.com/Xuzhen-Li/paper-viz/main/figures/differential-expression/volcano/preview.png" width="280" alt="paper-viz volcano preview"></p>
+- 📄 **[paper-reading](https://github.com/Xuzhen-Li/paper-reading)** — one PDF to one Chinese L3 note
+- 🌱 **[concept-learning](https://github.com/Xuzhen-Li/concept-learning)** — biology / evolution concept lessons
+- 👤 **[famous-people](https://github.com/Xuzhen-Li/famous-people)** — one person, one checkable question
+- 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — AI model works
+- 🧯 **[cursor-state-vscdb](https://github.com/Xuzhen-Li/cursor-state-vscdb)** — Cursor stuck on Loading chats
 
 ## Stats
 
@@ -63,9 +68,10 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 
 ## What I'm doing
 
+- **Grapevine genome** — pangenome, TE, plastid, and the structure-then-function annotation pair, as separate jobs
+- **GBTS** — kit scaffold (`gtbs-chip-service-kit`), 167K walkthrough (`grapeancestry`), chip design (`grapevine-chip`)
+- **Population genetics and ancient DNA** — Italy analysis notes, trio QC, and aDNA on its own
 - **Old theory, new data** — lock the original paper, list the assumptions, then try to break them on grape clones and wild *Vitis*
-- **Capture panel** — GBTS kit scaffold (`gtbs-chip-service-kit`), grapevine 167K walkthrough (`grapeancestry`), and the chip-design pipeline (`grapevine-chip`)
-- **Clonal genomes** — aDNA, pangenomes, TE, and plastid as separate jobs, not one dump
 
 ## Connect
 
