@@ -10,17 +10,8 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 
 ## Start Here
 
-**Annotation teaching pair** (structure, then function):
-
-- 🏷️ **[gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation)** — **primary gene-model layer** (exons / CDS → GFF3 + proteins; TE soft-mask inside structure)
-- 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — **labels after proteins** (GO / domains / names; no BRAKER / GFF edit / TE)
-
-**Annotation board:** [Project #2](https://github.com/users/Xuzhen-Li/projects/2) (structure → function).
-
-**Grapevine tools:**
-
-- 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — grapevine **167K public walkthrough** (GUIDELINE / `demo/` / `steps/`); reusable chip scaffold is [gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit)
-- 🧪 **[grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip)** — **chip design**, the full path from this machine and the papers. Not a redirect.
+- 🧰 **[gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit)** — the chip service kit. Grapevine 167K is the worked example in [grapeancestry](https://github.com/Xuzhen-Li/grapeancestry) ([demo report](https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html)); design notes live in [grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip).
+- 📄 **[paper-reading](https://github.com/Xuzhen-Li/paper-reading)** — one PDF to one Chinese L3 note.
 
 ## Lines of work
 
