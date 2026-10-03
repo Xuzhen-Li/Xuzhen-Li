@@ -10,7 +10,7 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 
 ## Start Here
 
-**Chip service kit.** [gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit) is the kit. The grapevine 167K run is [grapeancestry](https://github.com/Xuzhen-Li/grapeancestry), with a [demo report](https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html). Design sits in [grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip).
+**Chip service kit.** **[gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit)** is the kit. The grapevine 167K run is **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)**, with a [demo report](https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html). Design sits in **[grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip)**.
 
 **Paper reading.** [paper-reading](https://github.com/Xuzhen-Li/paper-reading) turns one PDF into one Chinese note.
 
