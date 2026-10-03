@@ -32,7 +32,7 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 - 🏷️ **[gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation)** — gene models (GFF3 + proteins)
 - 🏷️ **[gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation)** — labels after proteins
 
-### GBTS
+### Genotyping by target sequencing
 
 - 🧰 **[gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit)** — reusable chip-service scaffold
 - 🍇 **[grapeancestry](https://github.com/Xuzhen-Li/grapeancestry)** — 167K walkthrough. [Demo report](https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html)
@@ -78,7 +78,7 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 ## What I'm doing
 
 - **Grapevine genome** — pangenome, TE, plastid, and the structure-then-function annotation pair, as separate jobs
-- **GBTS** — kit scaffold (`gtbs-chip-service-kit`), 167K walkthrough (`grapeancestry`), chip design (`grapevine-chip`)
+- **Genotyping by target sequencing** — kit scaffold (`gtbs-chip-service-kit`), 167K walkthrough (`grapeancestry`), chip design (`grapevine-chip`)
 - **Population genetics and ancient DNA** — Italy analysis notes, trio QC, and aDNA on its own
 - **Old theory, new data** — lock the original paper, list the assumptions, then try to break them on grape clones and wild *Vitis*
 
