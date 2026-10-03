@@ -49,14 +49,23 @@ Grapevine genetics: clones, pangenomes, transposable elements, capture arrays, a
 
 ### Skills
 
-- 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — one theory per folder; original paper first
-- 🖼️ **[paper-viz](https://github.com/Xuzhen-Li/paper-viz)** — R figure library. [Gallery](https://xuzhen-li.github.io/paper-viz/)
-  <p align="left"><img src="https://raw.githubusercontent.com/Xuzhen-Li/paper-viz/main/figures/differential-expression/volcano/preview.png" width="280" alt="paper-viz volcano preview"></p>
+**Reading and writing**
+
 - 📄 **[paper-reading](https://github.com/Xuzhen-Li/paper-reading)** — one PDF to one Chinese L3 note
 - 🌱 **[concept-learning](https://github.com/Xuzhen-Li/concept-learning)** — biology / evolution concept lessons
 - 👤 **[famous-people](https://github.com/Xuzhen-Li/famous-people)** — one person, one checkable question
+- 📜 **[genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining)** — one theory per folder; original paper first
+
+**Figures**
+
+- 🖼️ **[paper-viz](https://github.com/Xuzhen-Li/paper-viz)** — R figure library. [Gallery](https://xuzhen-li.github.io/paper-viz/)
+  <p align="left"><img src="https://raw.githubusercontent.com/Xuzhen-Li/paper-viz/main/figures/differential-expression/volcano/preview.png" width="280" alt="paper-viz volcano preview"></p>
 - 🖼️ **[awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science)** — AI model works
-- 🧯 **[cursor-state-vscdb](https://github.com/Xuzhen-Li/cursor-state-vscdb)** — Cursor stuck on Loading chats
+
+### Agent
+
+- 🧯 **[cursor-state-vscdb](https://github.com/Xuzhen-Li/cursor-state-vscdb)** — Cursor stuck on Loading chats: oversized `state.vscdb`
+- 🚪 **[grok-bot-dispatch](https://github.com/Xuzhen-Li/grok-bot-dispatch)** — how the front-door bot hands work to project bots and roles
 
 ## Stats
 
