@@ -45,6 +45,8 @@ Reading and writing
 - [famous-people](https://github.com/Xuzhen-Li/famous-people): one person, one checkable question
 - [genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining): one theory per folder, original paper first
 
+For each theory I start from the original paper, list its assumptions, and test them on grape clones and wild Vitis.
+
 Figures
 
 - [paper-viz](https://github.com/Xuzhen-Li/paper-viz): R figure library. [Gallery](https://xuzhen-li.github.io/paper-viz/)
@@ -59,5 +61,3 @@ Figures
 ## Contact
 
 ORCID: [0000-0003-3670-6657](https://orcid.org/0000-0003-3670-6657)
-
-For each theory I start from the original paper, list its assumptions, and test them on grape clones and wild Vitis.
