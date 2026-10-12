@@ -74,7 +74,7 @@ I build pipelines and analyze grapevine genomes, focusing on clones, pangenomes,
 
 ## All repositories
 
-![Grapevine genome](https://img.shields.io/badge/Grapevine_genome-5_repos-119B76?style=flat-square)
+![Grapevine genome & annotation](https://img.shields.io/badge/Grapevine_genome_%26_annotation-5_repos-119B76?style=flat-square)
 
 | Repository | What it does |
 | --- | --- |
@@ -84,13 +84,13 @@ I build pipelines and analyze grapevine genomes, focusing on clones, pangenomes,
 | [grapevine-plastid](https://github.com/Xuzhen-Li/grapevine-plastid) · In progress | Vitis plastid / chloroplast pangenome notes |
 | [vitis-te](https://github.com/Xuzhen-Li/vitis-te) · In progress | Public stub for Vitis TE libraries and the soft-mask hand-off into gene annotation pipelines. |
 
-![Genotyping by target sequencing](https://img.shields.io/badge/Genotyping_by_target_sequencing-3_repos-595594?style=flat-square)
+![Target-sequencing genotyping chips](https://img.shields.io/badge/Target--sequencing_genotyping_chips-3_repos-595594?style=flat-square)
 
 | Repository | What it does |
 | --- | --- |
 | [grapeancestry](https://github.com/Xuzhen-Li/grapeancestry) | 167K grapevine capture panel companion: ancestry, identity, PCA, colour GS. |
 | [gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit) | Register an existing genotyping chip as a profile and check it. |
-| [grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip) · In progress | Grapevine capture-array / 167K chip design |
+| [grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip) | Grapevine capture-array / 167K chip design |
 
 ![Population genetics](https://img.shields.io/badge/Population_genetics-4_repos-F77E12?style=flat-square)
 
