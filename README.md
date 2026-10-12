@@ -3,6 +3,8 @@
   <img alt="Banner: Xuzhen Li, Plant paleogenomics and grapevine population genetics" src="assets/banner-light.png">
 </picture>
 
+English | [中文](README.zh.md)
+
 I build pipelines and analyze grapevine genomes, focusing on clones, pangenomes, transposable elements, capture panels, ancient DNA, and population genetics theory.
 
 [ORCID 0000-0003-3670-6657](https://orcid.org/0000-0003-3670-6657) | [paper-viz gallery](https://xuzhen-li.github.io/paper-viz/) | [grapeancestry demo](https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html)
@@ -13,7 +15,7 @@ I build pipelines and analyze grapevine genomes, focusing on clones, pangenomes,
       <a href="https://github.com/Xuzhen-Li/paper-viz">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/card-paper-viz-dark.png">
-          <img alt="paper-viz: R figure templates" src="assets/card-paper-viz-light.png">
+          <img alt="paper-viz: 117 R figure templates" src="assets/card-paper-viz-light.png">
         </picture>
       </a><br>
       Run 117 R figure templates to generate vector PDFs and 600 dpi PNGs.
@@ -36,7 +38,7 @@ I build pipelines and analyze grapevine genomes, focusing on clones, pangenomes,
           <img alt="paper-reading: PDF to Chinese reading note" src="assets/card-paper-reading-light.png">
         </picture>
       </a><br>
-      Turn a local research PDF into a Chinese illustrated reading note; your PDF library stays on your machine.
+      Turn a local research PDF into a Chinese illustrated L3 note; your PDF library stays on your machine.
     </td>
     <td width="50%">
       <a href="https://github.com/Xuzhen-Li/vitis-pangenome">
@@ -75,8 +77,8 @@ I build pipelines and analyze grapevine genomes, focusing on clones, pangenomes,
 | Topic | Repositories |
 | --- | --- |
 | Grapevine genome | [vitis-te](https://github.com/Xuzhen-Li/vitis-te) (soft-masking stub), [grapevine-plastid](https://github.com/Xuzhen-Li/grapevine-plastid) (methods to come) |
-| Genome annotation | [gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation), [gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation) |
-| Target-sequencing genotyping | [gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit), [grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip) (design notes) |
+| Genome annotation | [gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation) (gene models: GFF3 + proteins), [gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation) |
+| Target-sequencing genotyping | [gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit) (validates chip profiles; steps documented in steps/), [grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip) (design notes) |
 | Population genetics | [vitis-popgen](https://github.com/Xuzhen-Li/vitis-popgen) (placeholder), [TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance) |
 | Ancient DNA | [grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna) (placeholder) |
 
@@ -84,9 +86,9 @@ I build pipelines and analyze grapevine genomes, focusing on clones, pangenomes,
 <summary>More repositories</summary>
 
 - [concept-learning](https://github.com/Xuzhen-Li/concept-learning): Biology concept lessons and BioLogos-style series writing (Cursor skill).
-- [famous-people](https://github.com/Xuzhen-Li/famous-people): One biologist's scientific life as a Chinese WeChat longread (Cursor skill).
-- [awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science): AI model works, grouping demos and figures actually produced by models.
+- [famous-people](https://github.com/Xuzhen-Li/famous-people): One biologist's scientific life as a Chinese WeChat longread; one person, one checkable question (Cursor skill).
+- [awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science): AI model works, grouping demos and figures actually produced by models, each linked to its source.
 - [cursor-state-vscdb](https://github.com/Xuzhen-Li/cursor-state-vscdb): Scripts and case study for diagnosing macOS Cursor hangs caused by large state databases.
-- [grok-bot-dispatch](https://github.com/Xuzhen-Li/grok-bot-dispatch): Cursor skill where Primary is the front door and project bots stay in Unassigned.
+- [grok-bot-dispatch](https://github.com/Xuzhen-Li/grok-bot-dispatch): Cursor skill where Primary is the front-door bot that hands work to project bots and roles.
 
 </details>

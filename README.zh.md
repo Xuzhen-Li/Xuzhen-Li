@@ -3,6 +3,8 @@
   <img alt="Banner: 李旭真, 植物古基因组学与葡萄群体遗传学" src="assets/banner-light.png">
 </picture>
 
+[English](README.md) | 中文
+
 我开发分析流程并研究葡萄基因组，关注无性繁殖系、泛基因组、转座子、靶向测序面板、古DNA与群体遗传学理论。
 
 [ORCID 0000-0003-3670-6657](https://orcid.org/0000-0003-3670-6657) | [paper-viz gallery](https://xuzhen-li.github.io/paper-viz/) | [grapeancestry demo](https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html)
@@ -36,7 +38,7 @@
           <img alt="paper-reading: PDF转图文笔记" src="assets/card-paper-reading-light.png">
         </picture>
       </a><br>
-      将本地研究PDF转换为中文图文阅读笔记，文件保留在本地。
+      将本地研究PDF转换为中文图文L3笔记，文件保留在本地。
     </td>
     <td width="50%">
       <a href="https://github.com/Xuzhen-Li/vitis-pangenome">
@@ -74,9 +76,9 @@
 
 | 主题 | 仓库 |
 | --- | --- |
-| 葡萄基因组 | [vitis-te](https://github.com/Xuzhen-Li/vitis-te) (待更新流程), [grapevine-plastid](https://github.com/Xuzhen-Li/grapevine-plastid) (待更新方法) |
-| 基因组注释 | [gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation), [gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation) |
-| 靶向测序基因分型 | [gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit), [grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip) (设计笔记) |
+| 葡萄基因组 | [vitis-te](https://github.com/Xuzhen-Li/vitis-te) (软屏蔽占位页), [grapevine-plastid](https://github.com/Xuzhen-Li/grapevine-plastid) (待更新方法) |
+| 基因组注释 | [gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation) (基因模型：GFF3 + proteins), [gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation) |
+| 靶向测序基因分型 | [gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit) (验证芯片配置文件；步骤详见steps/), [grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip) (设计笔记) |
 | 群体遗传学 | [vitis-popgen](https://github.com/Xuzhen-Li/vitis-popgen) (预留项), [TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance) |
 | 古DNA | [grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna) (预留项) |
 
@@ -84,9 +86,9 @@
 <summary>更多仓库</summary>
 
 - [concept-learning](https://github.com/Xuzhen-Li/concept-learning): 生物学概念课程与BioLogos风格系列写作 (Cursor skill)。
-- [famous-people](https://github.com/Xuzhen-Li/famous-people): 将生物学家的科研生涯转为微信长文记录 (Cursor skill)。
-- [awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science): AI模型作品集，按模型实际生成的示例与图表分类。
+- [famous-people](https://github.com/Xuzhen-Li/famous-people): 将生物学家的科研生涯转为微信长文记录：一个人，一个可检验的问题 (Cursor skill)。
+- [awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science): AI模型作品集，按模型实际生成的示例与图表分类，每个均链接至其来源。
 - [cursor-state-vscdb](https://github.com/Xuzhen-Li/cursor-state-vscdb): 用于诊断因巨型状态数据库导致macOS Cursor卡顿的脚本与案例。
-- [grok-bot-dispatch](https://github.com/Xuzhen-Li/grok-bot-dispatch): 前置分发机器人的Cursor skill，项目机器人保持未分配状态。
+- [grok-bot-dispatch](https://github.com/Xuzhen-Li/grok-bot-dispatch): 前置分发机器人的Cursor skill，负责将任务分发给项目机器人与对应角色。
 
 </details>
