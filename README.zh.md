@@ -72,6 +72,55 @@
   </tr>
 </table>
 
+## 全部仓库
+
+![葡萄基因组](https://img.shields.io/badge/葡萄基因组-5_repos-119B76?style=flat-square)
+
+| 仓库 | 功能说明 |
+| --- | --- |
+| [vitis-pangenome](https://github.com/Xuzhen-Li/vitis-pangenome) | 运行葡萄泛基因组图谱、存在与缺失变异以及混合变异剂量分析方法流程。 |
+| [gene-structure-annotation](https://github.com/Xuzhen-Li/gene-structure-annotation) | 结构基因组注释流程，从FASTA序列和证据中提供基因模型与GFF3输出。 |
+| [gene-function-annotation](https://github.com/Xuzhen-Li/gene-function-annotation) | 在结构注释后，为蛋白质序列分配GO、KEGG与结构域等功能标签。 |
+| [grapevine-plastid](https://github.com/Xuzhen-Li/grapevine-plastid) · 建设中 | 葡萄质体/叶绿体泛基因组分析笔记。 |
+| [vitis-te](https://github.com/Xuzhen-Li/vitis-te) · 建设中 | 葡萄TE文库以及向基因注释流程移交软屏蔽结果的公开占位页。 |
+
+![靶向测序分型芯片](https://img.shields.io/badge/靶向测序分型芯片-3_repos-595594?style=flat-square)
+
+| 仓库 | 功能说明 |
+| --- | --- |
+| [grapeancestry](https://github.com/Xuzhen-Li/grapeancestry) | 167K葡萄靶向捕获面板配套工具：血统、同一性、PCA与colour GS。 |
+| [gtbs-chip-service-kit](https://github.com/Xuzhen-Li/gtbs-chip-service-kit) | 将现有基因分型芯片注册为配置文件并进行验证。 |
+| [grapevine-chip](https://github.com/Xuzhen-Li/grapevine-chip) · 建设中 | 葡萄捕获阵列/167K芯片设计。 |
+
+![群体遗传](https://img.shields.io/badge/群体遗传-4_repos-F77E12?style=flat-square)
+
+| 仓库 | 功能说明 |
+| --- | --- |
+| [qbar](https://github.com/Xuzhen-Li/qbar) | 排序ADMIXTURE Q文件，在不同K值间对齐列，并绘制群体结构柱状图。 |
+| [TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance) | 跨三个独立数据集进行逐位点与逐样本的基因型一致性分析Python工具。 |
+| [genomics-theory-mining](https://github.com/Xuzhen-Li/genomics-theory-mining) | 挖掘经典基因组学理论，并在现代数据上测试其假设。 |
+| [vitis-popgen](https://github.com/Xuzhen-Li/vitis-popgen) · 建设中 | 葡萄群体遗传学与驯化。 |
+
+![古 DNA](https://img.shields.io/badge/古_DNA-1_repo-CC312C?style=flat-square)
+
+| 仓库 | 功能说明 |
+| --- | --- |
+| [grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna) · 建设中 | 葡萄古DNA分析方法与笔记。 |
+
+![工具与技能](https://img.shields.io/badge/工具与技能-9_repos-1F72AE?style=flat-square)
+
+| 仓库 | 功能说明 |
+| --- | --- |
+| [paper-viz](https://github.com/Xuzhen-Li/paper-viz) | R语言首选的出版级图表画廊：117个模板（代码+模拟数据+预览），支持Web浏览与Agent调用。 |
+| [paper-reading](https://github.com/Xuzhen-Li/paper-reading) | 将单篇研究PDF转换为中文图文阅读笔记；您的PDF库保存在本地。 |
+| [literature-review-skills](https://github.com/Xuzhen-Li/literature-review-skills) | 独立于Agent的文献综述撰写技能套件，并在人为把关处停止，每一项声明均绑定至项目持有的来源。 |
+| [patent-drafting-skills](https://github.com/Xuzhen-Li/patent-drafting-skills) | 中英双语的起草发明专利Agent技能——覆盖中美及PCT：公开、现有技术检索、创造性、权利要求、说明书、附图、一致性检查与.docx导出。 |
+| [concept-learning](https://github.com/Xuzhen-Li/concept-learning) | 个人制作的Cursor技能：生物学概念课程与BioLogos风格系列写作。 |
+| [famous-people](https://github.com/Xuzhen-Li/famous-people) | 个人制作的Cursor技能：将生物学家的科研生涯转为微信长文记录。 |
+| [awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science) | AI模型作品集：展示模型实际生成的演示与图表。 |
+| [cursor-state-vscdb](https://github.com/Xuzhen-Li/cursor-state-vscdb) | 诊断由数十GB state.vscdb SQLite数据库引起的macOS Cursor卡顿的脚本与案例。 |
+| [grok-bot-dispatch](https://github.com/Xuzhen-Li/grok-bot-dispatch) | Cursor技能：Primary作为前门，项目机器人保持未分配状态，角色为共享池上的单任务分配。 |
+
 ### 研究方向
 
 | 主题 | 仓库 |
@@ -82,13 +131,3 @@
 | 群体遗传学 | [vitis-popgen](https://github.com/Xuzhen-Li/vitis-popgen) (预留项), [TrioConcordance](https://github.com/Xuzhen-Li/TrioConcordance) |
 | 古DNA | [grapevine-adna](https://github.com/Xuzhen-Li/grapevine-adna) (预留项) |
 
-<details>
-<summary>更多仓库</summary>
-
-- [concept-learning](https://github.com/Xuzhen-Li/concept-learning): 生物学概念课程与BioLogos风格系列写作 (Cursor skill)。
-- [famous-people](https://github.com/Xuzhen-Li/famous-people): 将生物学家的科研生涯转为微信长文记录：一个人，一个可检验的问题 (Cursor skill)。
-- [awesome-astra-science](https://github.com/Xuzhen-Li/awesome-astra-science): AI模型作品集，按模型实际生成的示例与图表分类，每个均链接至其来源。
-- [cursor-state-vscdb](https://github.com/Xuzhen-Li/cursor-state-vscdb): 用于诊断因巨型状态数据库导致macOS Cursor卡顿的脚本与案例。
-- [grok-bot-dispatch](https://github.com/Xuzhen-Li/grok-bot-dispatch): 前置分发机器人的Cursor skill，负责将任务分发给项目机器人与对应角色。
-
-</details>
