@@ -15,10 +15,10 @@
       <a href="https://github.com/Xuzhen-Li/paper-viz">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/card-paper-viz-dark.png">
-          <img alt="paper-viz: 120个R绘图模板" src="assets/card-paper-viz-light.png">
+          <img alt="paper-viz: 123个R绘图模板" src="assets/card-paper-viz-light.png">
         </picture>
       </a><br>
-      运行120个R语言绘图模板，生成矢量PDF和600 dpi的PNG图。
+      运行123个R语言绘图模板，生成矢量PDF和600 dpi的PNG图。
     </td>
     <td width="50%">
       <a href="https://github.com/Xuzhen-Li/grapeancestry">
@@ -111,7 +111,7 @@
 
 | 仓库 | 功能说明 |
 | --- | --- |
-| [paper-viz](https://github.com/Xuzhen-Li/paper-viz) | 以 R 为主的出版级图表画廊：120个模板（代码+模拟数据+预览），支持Web浏览与Agent调用。 |
+| [paper-viz](https://github.com/Xuzhen-Li/paper-viz) | 以 R 为主的出版级图表画廊：123个模板加21个示意图（代码+模拟数据+预览），支持Web浏览与Agent调用。 |
 | [paper-reading](https://github.com/Xuzhen-Li/paper-reading) | 将单篇研究PDF转换为中文图文阅读笔记；您的PDF库保存在本地。 |
 | [literature-review-skills](https://github.com/Xuzhen-Li/literature-review-skills) | 独立于Agent的文献综述撰写技能套件，并在人工把关处停止，每一项声明均绑定至项目持有的来源。 |
 | [patent-drafting-skills](https://github.com/Xuzhen-Li/patent-drafting-skills) | 中英双语的起草发明专利Agent技能——覆盖中美及PCT：公开、现有技术检索、创造性、权利要求、说明书、附图、一致性检查与.docx导出。 |

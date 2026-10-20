@@ -15,10 +15,10 @@ I build pipelines and analyze grapevine genomes, focusing on clones, pangenomes,
       <a href="https://github.com/Xuzhen-Li/paper-viz">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/card-paper-viz-dark.png">
-          <img alt="paper-viz: 120 R figure templates" src="assets/card-paper-viz-light.png">
+          <img alt="paper-viz: 123 R figure templates" src="assets/card-paper-viz-light.png">
         </picture>
       </a><br>
-      Run 120 R figure templates to generate vector PDFs and 600 dpi PNGs.
+      Run 123 R figure templates to generate vector PDFs and 600 dpi PNGs.
     </td>
     <td width="50%">
       <a href="https://github.com/Xuzhen-Li/grapeancestry">
@@ -111,7 +111,7 @@ I build pipelines and analyze grapevine genomes, focusing on clones, pangenomes,
 
 | Repository | What it does |
 | --- | --- |
-| [paper-viz](https://github.com/Xuzhen-Li/paper-viz) | R-first publication figure gallery: 120 templates (code + simulated data + preview), browsable web gallery, agent-callable. |
+| [paper-viz](https://github.com/Xuzhen-Li/paper-viz) | R-first publication figure gallery: 123 templates plus 21 schematics (code + simulated data + preview), browsable web gallery, agent-callable. |
 | [paper-reading](https://github.com/Xuzhen-Li/paper-reading) | Turns one research PDF into a Chinese illustrated reading note; your PDF library stays on your machine. |
 | [literature-review-skills](https://github.com/Xuzhen-Li/literature-review-skills) | An agent-agnostic skill suite for writing literature reviews that stops at human gates, with every claim tied to a source the project actually holds. |
 | [patent-drafting-skills](https://github.com/Xuzhen-Li/patent-drafting-skills) | Bilingual (EN/中文) agent skills for drafting invention patents — CN, US and PCT: disclosure, prior-art search, inventive step, claims, description, drawings, consistency checks, .docx export. |
