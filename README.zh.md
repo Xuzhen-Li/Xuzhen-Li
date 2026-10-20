@@ -18,7 +18,7 @@
           <img alt="paper-viz: 123个R绘图模板" src="assets/card-paper-viz-light.png">
         </picture>
       </a><br>
-      运行120个R语言绘图模板，生成矢量PDF和600 dpi的PNG图。
+      运行123个R语言绘图模板，生成矢量PDF和600 dpi的PNG图。
     </td>
     <td width="50%">
       <a href="https://github.com/Xuzhen-Li/grapeancestry">
