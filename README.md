@@ -55,13 +55,13 @@ The public repositories here mostly contain pipelines and notes for Vitis pangen
       Map new grapevine samples to a frozen 167K capture panel and write interactive HTML reports.
     </td>
     <td width="50%">
-      <a href="https://github.com/Xuzhen-Li/qbar">
+      <a href="https://github.com/Xuzhen-Li/vitis-open-directions">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-qbar-dark.png">
-          <img alt="qbar: sort ADMIXTURE Q files" src="assets/card-qbar-light.png">
+          <source media="(prefers-color-scheme: dark)" srcset="assets/card-vitis-open-directions-dark.png">
+          <img alt="vitis-open-directions: Grapevine (Vitis) genomics research directions that use public data only, each a runnable plan from download to figures" src="assets/card-vitis-open-directions-light.png">
         </picture>
       </a><br>
-      Sort ADMIXTURE Q files, align columns across K values, and plot population structure barplots.
+      Grapevine (Vitis) genomics research directions that use public data only, each a runnable plan from download to figures
     </td>
   </tr>
 </table>
