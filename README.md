@@ -36,11 +36,21 @@ The public repositories here mostly contain pipelines and notes for Vitis pangen
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Xuzhen-Li/gene-structure-annotation">gene-structure-annotation</a><br>
+      <a href="https://github.com/Xuzhen-Li/gene-structure-annotation">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/card-gene-structure-annotation-dark.png">
+          <img alt="gene-structure-annotation: gene models and GFF3 from a genome" src="assets/card-gene-structure-annotation-light.png">
+        </picture>
+      </a><br>
       Build gene models and GFF3 files from a FASTA genome and supporting evidence.
     </td>
     <td width="50%">
-      <a href="https://github.com/Xuzhen-Li/gene-function-annotation">gene-function-annotation</a><br>
+      <a href="https://github.com/Xuzhen-Li/gene-function-annotation">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/card-gene-function-annotation-dark.png">
+          <img alt="gene-function-annotation: GO, KEGG, and domain labels for proteins" src="assets/card-gene-function-annotation-light.png">
+        </picture>
+      </a><br>
       Assign GO, KEGG, and domain labels to protein sequences after structure annotation.
     </td>
   </tr>

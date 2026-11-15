@@ -36,11 +36,21 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Xuzhen-Li/gene-structure-annotation">gene-structure-annotation</a><br>
+      <a href="https://github.com/Xuzhen-Li/gene-structure-annotation">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/card-gene-structure-annotation-dark.png">
+          <img alt="gene-structure-annotation：从基因组和证据得到基因模型与 GFF3" src="assets/card-gene-structure-annotation-light.png">
+        </picture>
+      </a><br>
       基于 FASTA 基因组及支持证据构建基因模型并生成 GFF3 文件。
     </td>
     <td width="50%">
-      <a href="https://github.com/Xuzhen-Li/gene-function-annotation">gene-function-annotation</a><br>
+      <a href="https://github.com/Xuzhen-Li/gene-function-annotation">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/card-gene-function-annotation-dark.png">
+          <img alt="gene-function-annotation：给蛋白加 GO、KEGG 和结构域注释" src="assets/card-gene-function-annotation-light.png">
+        </picture>
+      </a><br>
       在结构注释之后为蛋白质序列分配 GO、KEGG 和结构域标签。
     </td>
   </tr>
